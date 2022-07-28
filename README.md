@@ -15,3 +15,5 @@ Sophia - full work
 # License
 
 # Acknowledgments
+# Pyhton file
+The python file added, it shows how to check data types and how to convert from one data type to another.
